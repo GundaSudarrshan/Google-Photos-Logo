@@ -1,10 +1,17 @@
-Google Photos Logo with Pure HTML and CSS
+## Google Photos Logo with Pure HTML and CSS
 
-Technologies Used: HTML, CSS
+**Technologies Used** - HTML, CSS
+
+**Concepts Used**
+
+- Rotate()
+- Transform, TranslateX(), TranslateY()
+
+---
 
 Google Photos Color pallette: https://www.schemecolor.com/google-photos.php
 
-Colors Used:
+**Colors Used**
 
 - Cinnabar : #DA483B
 - Deep Lemon : #FFC718
@@ -13,8 +20,6 @@ Colors Used:
 
 ---
 
-Project View
+### Project View
 
-Image below
-
----
+##### Image below
